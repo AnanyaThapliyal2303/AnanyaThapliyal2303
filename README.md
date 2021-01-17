@@ -6,7 +6,7 @@ My name is Ananya.👋</h2>
 </p>
 
 
-<p align="center">I am currently pursuing my B.tech in Information Technology from Manipal Institute of Technology. I love swimming and I am part of the Swim Team at my college.Apart from that I am also a big Potterhead. Currently exploring Cloud Computing!
+<p align="center">I am currently pursuing my B.tech in Information Technology from Manipal Institute of Technology.
 </p>
 
 ![Ananya's Github Stats](https://github-readme-stats.vercel.app/api?username=AnanyaThapliyal2303&show_icons=true&theme=vue-light)
