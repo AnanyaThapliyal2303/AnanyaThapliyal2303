@@ -9,6 +9,6 @@ My name is Ananya.👋</h2>
 <p align="center">I am currently pursuing my B.tech in Information Technology from Manipal Institute of Technology.
 </p>
 
-![Ananya's Github Stats](https://github-readme-stats.vercel.app/api?username=AnanyaThapliyal2303&show_icons=true&theme=vue-light)
+![Ananya's Github Stats](https://github-readme-stats.vercel.app/api?username=AnanyaThapliyal2303&show_icons=true&theme=vue-dark)
 
 
